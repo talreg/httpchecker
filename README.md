@@ -5,6 +5,7 @@ I have written it in order to load test/switch test servers.
 
 Building
 -------------
+You'll need `go` installed.
 There is a `Makefile` for it. If you do not have make, you can run the commands by yourself.
 <br>The `make` command will build and set the file in the `bin` folder.
 
